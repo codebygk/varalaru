@@ -1,0 +1,461 @@
+[
+  {
+    "id": "work-1",
+    "leader_id": "leader-13",
+    "type": "poem",
+    "source": "Nilave Vaa",
+    "meta": null,
+    "en": { "text": "Among all the languages we know, none is sweeter than Tamil.", "author": "Subramania Bharathi", "explanation": null },
+    "ta": { "text": "யாமறிந்த மொழிகளிலே தமிழ்மொழி போல் இனிதாவது எங்கும் காணோம்.", "author": "சுப்பிரமணிய பாரதி", "explanation": null }
+  },
+  {
+    "id": "work-2",
+    "leader_id": "leader-13",
+    "type": "poem",
+    "source": "Panchali Sabatham",
+    "meta": null,
+    "en": { "text": "No fear, no fear, there is no such thing as fear - for human beings in this world, there is no fear!", "author": "Subramania Bharathi", "explanation": null },
+    "ta": { "text": "அச்சமில்லை அச்சமில்லை அச்சமென்பதில்லையே - இச்சகத்தில் மானுடர்க்கு அச்சமென்பதில்லையே!", "author": "சுப்பிரமணிய பாரதி", "explanation": null }
+  },
+  {
+    "id": "work-3",
+    "leader_id": "leader-13",
+    "type": "poem",
+    "source": "Kuyil Pattu",
+    "meta": null,
+    "en": { "text": "Any religion that degrades women is a religion of trash.", "author": "Subramania Bharathi", "explanation": null },
+    "ta": { "text": "பெண்ணை இழிவு படுத்தும் மதமெல்லாம் குப்பை மதம்.", "author": "சுப்பிரமணிய பாரதி", "explanation": null }
+  },
+  {
+    "id": "work-4",
+    "leader_id": "leader-13",
+    "type": "poem",
+    "source": "Janma Bhoomi",
+    "meta": null,
+    "en": { "text": "There are no castes, dear child - to speak of high or low birth is a sin.", "author": "Subramania Bharathi", "explanation": null },
+    "ta": { "text": "சாதிகள் இல்லையடி பாப்பா - குலத்தாழ்ச்சி உயர்ச்சி சொல்வது பாவம்.", "author": "சுப்பிரமணிய பாரதி", "explanation": null }
+  },
+  {
+    "id": "work-5",
+    "leader_id": "leader-13",
+    "type": "poem",
+    "source": "Vande Mataram",
+    "meta": null,
+    "en": { "text": "Long live forever, long live the Tamil language!", "author": "Subramania Bharathi", "explanation": null },
+    "ta": { "text": "வாழ்க நிரந்தரம், வாழ்க தமிழ்மொழி!", "author": "சுப்பிரமணிய பாரதி", "explanation": null }
+  },
+  {
+    "id": "work-6",
+    "leader_id": "leader-13",
+    "type": "poem",
+    "source": "Kannan Pattu",
+    "meta": null,
+    "en": { "text": "We shall sing new songs and be joyful; we shall not submit to sorrow.", "author": "Subramania Bharathi", "explanation": null },
+    "ta": { "text": "புதிய பாடல் பாடுவோம், புதிய இன்பம் நாடுவோம் - கவலைப்படோம் கவலைப்படோம்.", "author": "சுப்பிரமணிய பாரதி", "explanation": null }
+  },
+  {
+    "id": "work-7",
+    "leader_id": "leader-13",
+    "type": "poem",
+    "source": "Suya Sakti",
+    "meta": null,
+    "en": { "text": "If you say you are Tamil, stand with your head held high - never bow before anyone.", "author": "Subramania Bharathi", "explanation": null },
+    "ta": { "text": "தமிழன் என்று சொல்லடா - தலை நிமிர்ந்து நில்லடா, யாருக்கும் அஞ்சாதே.", "author": "சுப்பிரமணிய பாரதி", "explanation": null }
+  },
+  {
+    "id": "work-8",
+    "leader_id": "leader-13",
+    "type": "poem",
+    "source": "Chinnanchiru Kiliye",
+    "meta": null,
+    "en": { "text": "Little parrot, tell me - is it not wrong to keep a living bird in a cage?", "author": "Subramania Bharathi", "explanation": null },
+    "ta": { "text": "சின்னஞ்சிறு கிளியே கண்ணம்மா - செல்வக் கிளியே கண்ணம்மா, உயிரை வதைப்பது நல்லதோ?", "author": "சுப்பிரமணிய பாரதி", "explanation": null }
+  },
+  {
+    "id": "work-9",
+    "leader_id": "leader-13",
+    "type": "poem",
+    "source": "Acham Illai",
+    "meta": null,
+    "en": { "text": "We are born free - death itself holds no terror for those who live without fear.", "author": "Subramania Bharathi", "explanation": null },
+    "ta": { "text": "நாம் பிறந்தோம் சுதந்திரமாய் - அச்சமில்லை மரணத்திற்கும், அச்சமில்லை தளையிற்கும்.", "author": "சுப்பிரமணிய பாரதி", "explanation": null }
+  },
+  {
+    "id": "work-10",
+    "leader_id": "leader-13",
+    "type": "poem",
+    "source": "Shakti",
+    "meta": null,
+    "en": { "text": "Every living being is Shakti - every motion in the world is Shakti at play.", "author": "Subramania Bharathi", "explanation": null },
+    "ta": { "text": "உயிர் தோறும் சக்தியடா - உலகினில் அசையும் ஒவ்வொன்றும் சக்தியின் விளையாட்டடா.", "author": "சுப்பிரமணிய பாரதி", "explanation": null }
+  },
+  {
+    "id": "work-11",
+    "leader_id": "leader-19",
+    "type": "poem",
+    "source": "Isai Tamil",
+    "meta": null,
+    "en": { "text": "Say you are Tamil - stand with your head held high!", "author": "Bharathidasan", "explanation": null },
+    "ta": { "text": "தமிழன் என்று சொல்லடா - தலை நிமிர்ந்து நில்லடா!", "author": "பாரதிதாசன்", "explanation": null }
+  },
+  {
+    "id": "work-12",
+    "leader_id": "leader-19",
+    "type": "poem",
+    "source": "Penn Enum Deivam",
+    "meta": null,
+    "en": { "text": "The slavery of women must end; for that, men must awaken.", "author": "Bharathidasan", "explanation": null },
+    "ta": { "text": "பெண்ணடிமை ஒழிய வேண்டும்; அதற்கு ஆண் விழிப்படைய வேண்டும்.", "author": "பாரதிதாசன்", "explanation": null }
+  },
+  {
+    "id": "work-13",
+    "leader_id": "leader-19",
+    "type": "poem",
+    "source": "Tamizhukkum Amudendru Per",
+    "meta": null,
+    "en": { "text": "Tamil has a name that means nectar - a language ancient as creation itself.", "author": "Bharathidasan", "explanation": null },
+    "ta": { "text": "தமிழுக்கும் அமுதென்று பேர் - அந்தத் தமிழ் இன்பத் தமிழ் எங்கள் உயிருக்கு நேர்.", "author": "பாரதிதாசன்", "explanation": null }
+  },
+  {
+    "id": "work-14",
+    "leader_id": "leader-19",
+    "type": "poem",
+    "source": "Kudumba Vilakku",
+    "meta": null,
+    "en": { "text": "A home in which a woman is honoured is a temple where the gods dwell.", "author": "Bharathidasan", "explanation": null },
+    "ta": { "text": "பெண்ணை போற்றும் இடமே புனிதம் - அங்கே கடவுள் குடியிருக்கும்.", "author": "பாரதிதாசன்", "explanation": null }
+  },
+  {
+    "id": "work-15",
+    "leader_id": "leader-19",
+    "type": "poem",
+    "source": "Petral Thaan Pillaiya",
+    "meta": null,
+    "en": { "text": "Giving birth does not make one a mother - raising a child with love and wisdom is motherhood.", "author": "Bharathidasan", "explanation": null },
+    "ta": { "text": "பெற்றால் தான் பிள்ளையா - அன்போடு வளர்த்தால் தான் தாயா.", "author": "பாரதிதாசன்", "explanation": null }
+  },
+  {
+    "id": "work-16",
+    "leader_id": "leader-19",
+    "type": "poem",
+    "source": "Aasai Mugam",
+    "meta": null,
+    "en": { "text": "Cast away sorrow - march forward with the joy of living.", "author": "Bharathidasan", "explanation": null },
+    "ta": { "text": "துயரை விடுங்கள் - வாழும் இன்பத்துடன் முன்னேறுங்கள்.", "author": "பாரதிதாசன்", "explanation": null }
+  },
+  {
+    "id": "work-17",
+    "leader_id": "leader-23",
+    "type": "poem",
+    "source": "Aathichudi",
+    "meta": null,
+    "en": { "text": "Never abandon your courage.", "author": "Avvaiyar", "explanation": null },
+    "ta": { "text": "ஊக்கமது கைவிடேல்.", "author": "ஔவையார்", "explanation": null }
+  },
+  {
+    "id": "work-18",
+    "leader_id": "leader-23",
+    "type": "poem",
+    "source": "Aathichudi",
+    "meta": null,
+    "en": { "text": "Do not boast about what you own.", "author": "Avvaiyar", "explanation": null },
+    "ta": { "text": "உடையது விளம்பேல்.", "author": "ஔவையார்", "explanation": null }
+  },
+  {
+    "id": "work-19",
+    "leader_id": "leader-23",
+    "type": "poem",
+    "source": "Aathichudi",
+    "meta": null,
+    "en": { "text": "Do not neglect your elders.", "author": "Avvaiyar", "explanation": null },
+    "ta": { "text": "எல்லாரும் நல்லவரே என்று இரேல்.", "author": "ஔவையார்", "explanation": null }
+  },
+  {
+    "id": "work-20",
+    "leader_id": "leader-23",
+    "type": "poem",
+    "source": "Aathichudi",
+    "meta": null,
+    "en": { "text": "Do not forget a good deed done to you.", "author": "Avvaiyar", "explanation": null },
+    "ta": { "text": "ஒருவர் செய்த உதவி மறவேல்.", "author": "ஔவையார்", "explanation": null }
+  },
+  {
+    "id": "work-21",
+    "leader_id": "leader-23",
+    "type": "poem",
+    "source": "Aathichudi",
+    "meta": null,
+    "en": { "text": "The ocean of knowledge has no shore - the days of a learner are few.", "author": "Avvaiyar", "explanation": null },
+    "ta": { "text": "கல்வி கரையில - கற்பவர் நாள் சில.", "author": "ஔவையார்", "explanation": null }
+  },
+  {
+    "id": "work-22",
+    "leader_id": "leader-23",
+    "type": "poem",
+    "source": "Mooturai",
+    "meta": null,
+    "en": { "text": "Celebrate with Aathichudi - remember and honour the greatness of the renounced.", "author": "Avvaiyar", "explanation": null },
+    "ta": { "text": "ஆத்திசூடி கொண்டாடு - நீத்தார் பெருமை நினைந்து கொள்.", "author": "ஔவையார்", "explanation": null }
+  },
+  {
+    "id": "work-23",
+    "leader_id": "leader-23",
+    "type": "poem",
+    "source": "Nalvazhi",
+    "meta": null,
+    "en": { "text": "Speak words that bring joy to the heart - truth spoken pleasantly is the highest virtue.", "author": "Avvaiyar", "explanation": null },
+    "ta": { "text": "மனதிற்கு உவந்ததை சொல்லி - மனமகிழ்ச்சி தரும் வார்த்தைகள் பேசு.", "author": "ஔவையார்", "explanation": null }
+  },
+  {
+    "id": "work-24",
+    "leader_id": "leader-23",
+    "type": "poem",
+    "source": "Konraivendan",
+    "meta": null,
+    "en": { "text": "The world belongs to those who learn; the wise are praised everywhere.", "author": "Avvaiyar", "explanation": null },
+    "ta": { "text": "படித்தவர்களுக்கு உலகு உரியது - அறிஞர் எங்கும் போற்றப்படுவர்.", "author": "ஔவையார்", "explanation": null }
+  },
+  {
+    "id": "work-25",
+    "leader_id": "leader-24",
+    "type": "poem",
+    "source": "Cilappatikaram",
+    "meta": null,
+    "en": { "text": "Fate is impartial - it strikes down the great as readily as the small.", "author": "Ilango Adigal", "explanation": null },
+    "ta": { "text": "ஊழி பெயரினும் தாம் பெயரார் - உயர்ந்தோரும் தாழ்ந்தோரும் ஒன்றே.", "author": "இளங்கோவடிகள்", "explanation": null }
+  },
+  {
+    "id": "work-26",
+    "leader_id": "leader-24",
+    "type": "poem",
+    "source": "Cilappatikaram",
+    "meta": null,
+    "en": { "text": "A woman's chastity is her fortress - no weapon forged by man can breach it.", "author": "Ilango Adigal", "explanation": null },
+    "ta": { "text": "கற்புடைய மங்கையின் கோபம் - கல்லையும் கரைக்கும் கனல் ஆகும்.", "author": "இளங்கோவடிகள்", "explanation": null }
+  },
+  {
+    "id": "work-27",
+    "leader_id": "leader-24",
+    "type": "poem",
+    "source": "Cilappatikaram",
+    "meta": null,
+    "en": { "text": "Kannagi, whose ankle-bracelet brought down a kingdom - her name shall live as long as the hills and the sea endure.", "author": "Ilango Adigal", "explanation": null },
+    "ta": { "text": "கண்ணகியின் சிலம்பு - ஒரு நாட்டையே அழித்தது, அவள் பெயர் மலையும் கடலும் உள்ளவரை நிலைக்கும்.", "author": "இளங்கோவடிகள்", "explanation": null }
+  },
+  {
+    "id": "work-28",
+    "leader_id": "leader-24",
+    "type": "poem",
+    "source": "Cilappatikaram",
+    "meta": null,
+    "en": { "text": "A king who slays an innocent is not fit to rule - the earth itself will reject him.", "author": "Ilango Adigal", "explanation": null },
+    "ta": { "text": "அரசன் தவறு செய்தால் - அவன் ஆட்சி அழியும், நாடும் அழியும்.", "author": "இளங்கோவடிகள்", "explanation": null }
+  },
+  {
+    "id": "work-29",
+    "leader_id": "leader-21",
+    "type": "kural",
+    "source": "Thirukkural",
+    "meta": { "number": 1, "book": 1, "book_en": "Virtue", "book_ta": "அறத்துப்பால்", "chapter": 1, "chapter_en": "The Praise of God", "chapter_ta": "கடவுள் வாழ்த்து" },
+    "en": { "text": "A, as its first of letters, every speech maintains;\nThe Primal Deity is first through all the world's domains.", "author": "Thiruvalluvar", "explanation": "As the letter A is the beginning of all letters, so God is the beginning of all the world." },
+    "ta": { "text": "அகர முதல எழுத்தெல்லாம் ஆதி\nபகவன் முதற்றே உலகு.", "author": "திருவள்ளுவர்", "explanation": "எழுத்துக்கள் எல்லாம் அகரத்தை முதலாக கொண்டிருப்பது போல், உலகம் கடவுளை முதலாக கொண்டுள்ளது." }
+  },
+  {
+    "id": "work-30",
+    "leader_id": "leader-21",
+    "type": "kural",
+    "source": "Thirukkural",
+    "meta": { "number": 2, "book": 1, "book_en": "Virtue", "book_ta": "அறத்துப்பால்", "chapter": 1, "chapter_en": "The Praise of God", "chapter_ta": "கடவுள் வாழ்த்து" },
+    "en": { "text": "What profit have those derived from learning, if they worship not\nThe good feet of Him who is possessed of pure knowledge?", "author": "Thiruvalluvar", "explanation": "What is the use of all learning if one does not worship the feet of the Lord of pure wisdom?" },
+    "ta": { "text": "கற்றதனால் ஆய பயனென்கொல் வாலறிவன்\nநற்றாள் தொழாஅர் எனின்.", "author": "திருவள்ளுவர்", "explanation": "தூய அறிவுடைய கடவுளின் திருவடிகளை வணங்காவிட்டால், கல்வி கற்றதனால் என்ன பயன் உண்டாகும்?" }
+  },
+  {
+    "id": "work-31",
+    "leader_id": "leader-21",
+    "type": "kural",
+    "source": "Thirukkural",
+    "meta": { "number": 3, "book": 1, "book_en": "Virtue", "book_ta": "அறத்துப்பால்", "chapter": 1, "chapter_en": "The Praise of God", "chapter_ta": "கடவுள் வாழ்த்து" },
+    "en": { "text": "Long life on earth is theirs who clasp, with love that cannot fail,\nThe feet of Him who o'er the flower-borne goddess deigns to dwell.", "author": "Thiruvalluvar", "explanation": "Those who reach the glorious feet of Him who dwells upon the lotus flower shall live long upon this earth." },
+    "ta": { "text": "மலர்மிசை ஏகினான் மாணடி சேர்ந்தார்\nநிலமிசை நீடுவாழ் வார்.", "author": "திருவள்ளுவர்", "explanation": "மலர் மேல் வீற்றிருப்பவனின் சிறந்த திருவடிகளை அடைந்தவர்கள் இந்த உலகில் நீண்ட காலம் வாழ்வார்கள்." }
+  },
+  {
+    "id": "work-32",
+    "leader_id": "leader-21",
+    "type": "kural",
+    "source": "Thirukkural",
+    "meta": { "number": 4, "book": 1, "book_en": "Virtue", "book_ta": "அறத்துப்பால்", "chapter": 1, "chapter_en": "The Praise of God", "chapter_ta": "கடவுள் வாழ்த்து" },
+    "en": { "text": "Those who gain the grace of Him who is endued with incomparable glory\nShall be freed from the accumulated afflictions of births.", "author": "Thiruvalluvar", "explanation": "Those who attain the grace of God shall be freed from the sorrow of repeated births." },
+    "ta": { "text": "வேண்டுதல் வேண்டாமை இலானடி சேர்ந்தார்க்கு\nயாண்டும் இடும்பை இல.", "author": "திருவள்ளுவர்", "explanation": "விரும்புவதும் வெறுப்பதும் இல்லாத கடவுளின் திருவடிகளை சேர்ந்தவர்களுக்கு எப்போதும் துன்பம் இல்லை." }
+  },
+  {
+    "id": "work-33",
+    "leader_id": "leader-21",
+    "type": "kural",
+    "source": "Thirukkural",
+    "meta": { "number": 5, "book": 1, "book_en": "Virtue", "book_ta": "அறத்துப்பால்", "chapter": 1, "chapter_en": "The Praise of God", "chapter_ta": "கடவுள் வாழ்த்து" },
+    "en": { "text": "Rain, that rare gift of water, is the life of the world;\nIt is also the food of those who have renounced all food.", "author": "Thiruvalluvar", "explanation": "Rain is the source of life for all. Even those who have renounced food depend on the water that rain provides." },
+    "ta": { "text": "இருள்சேர் இரண்டெனில் இன்னா உலகத்து\nஒருளொருளன் ஊரிடை நீங்கும்.", "author": "திருவள்ளுவர்", "explanation": "அறிவு இல்லாத மனிதனுக்கு வாழ்க்கையும் இருளாகும்." }
+  },
+  {
+    "id": "work-34",
+    "leader_id": "leader-21",
+    "type": "kural",
+    "source": "Thirukkural",
+    "meta": { "number": 21, "book": 1, "book_en": "Virtue", "book_ta": "அறத்துப்பால்", "chapter": 3, "chapter_en": "The Greatness of Ascetics", "chapter_ta": "நீத்தார் பெருமை" },
+    "en": { "text": "The great ones who have overcome the five senses\nAre greater than the measure of the whole world.", "author": "Thiruvalluvar", "explanation": "Those who have conquered the five senses are greater than all the wealth of the world combined." },
+    "ta": { "text": "ஐந்தவித்தான் ஆற்றல் அகல்விசும்பு நீங்கினும்\nகந்தமிழ் சாலும் கரி.", "author": "திருவள்ளுவர்", "explanation": "ஐந்து புலன்களையும் வென்றவனின் ஆற்றல் விண்வெளியை விட அகலமானது." }
+  },
+  {
+    "id": "work-35",
+    "leader_id": "leader-21",
+    "type": "kural",
+    "source": "Thirukkural",
+    "meta": { "number": 38, "book": 1, "book_en": "Virtue", "book_ta": "அறத்துப்பால்", "chapter": 4, "chapter_en": "Assertion of the Strength of Virtue", "chapter_ta": "அறன் வலியுறுத்தல்" },
+    "en": { "text": "Virtue will protect those who are devoted to it;\nVice will destroy those who follow it.", "author": "Thiruvalluvar", "explanation": "Righteousness guards those who uphold it; those who abandon it face ruin." },
+    "ta": { "text": "அறத்தான் வருவதே இன்பம் மற்றெல்லாம்\nபுறத்த புகழும் இல.", "author": "திருவள்ளுவர்", "explanation": "அறத்தினால் வருவதே இன்பம்; மற்றவை எல்லாம் உண்மையான இன்பம் அல்ல." }
+  },
+  {
+    "id": "work-36",
+    "leader_id": "leader-21",
+    "type": "kural",
+    "source": "Thirukkural",
+    "meta": { "number": 44, "book": 1, "book_en": "Virtue", "book_ta": "அறத்துப்பால்", "chapter": 5, "chapter_en": "Domestic Life", "chapter_ta": "இல்வாழ்க்கை" },
+    "en": { "text": "The glory of domestic life rests on the virtue of the wife and the blessings of good children.", "author": "Thiruvalluvar", "explanation": "A household where husband and wife live in virtue and mutual loyalty is the highest form of human life." },
+    "ta": { "text": "மனைவி மாண்பு மக்கள் பேறு - இவ்விரண்டும்\nமனைமாட்சி என்னும் வகை.", "author": "திருவள்ளுவர்", "explanation": "மனைவியின் சிறப்பும் நல்ல பிள்ளைகளும் - இந்த இரண்டுமே இல்வாழ்க்கையின் மாண்பு." }
+  },
+  {
+    "id": "work-37",
+    "leader_id": "leader-21",
+    "type": "kural",
+    "source": "Thirukkural",
+    "meta": { "number": 50, "book": 1, "book_en": "Virtue", "book_ta": "அறத்துப்பால்", "chapter": 5, "chapter_en": "Domestic Life", "chapter_ta": "இல்வாழ்க்கை" },
+    "en": { "text": "He who lives a virtuous household life is counted among the gods in this world.", "author": "Thiruvalluvar", "explanation": "A man who manages his own household virtuously earns true greatness; nothing more is needed." },
+    "ta": { "text": "வையத்துள் வாழ்வாங்கு வாழ்பவன் வானுறையும்\nதெய்வத்துள் வைக்கப் படும்.", "author": "திருவள்ளுவர்", "explanation": "இவ்வுலகில் அறநெறியில் வாழ்பவன் தெய்வத்துடன் நிகர்த்தவனாக போற்றப்படுவான்." }
+  },
+  {
+    "id": "work-38",
+    "leader_id": "leader-21",
+    "type": "kural",
+    "source": "Thirukkural",
+    "meta": { "number": 61, "book": 1, "book_en": "Virtue", "book_ta": "அறத்துப்பால்", "chapter": 7, "chapter_en": "Possession of Sons", "chapter_ta": "மக்கட்பேறு" },
+    "en": { "text": "The greatest fortune one can have is children who will speak wise words that surpass those of their parents.", "author": "Thiruvalluvar", "explanation": "Having children who grow wiser than their parents is the greatest blessing a person can receive." },
+    "ta": { "text": "தம்மின்தம் மக்கள் அறிவுடைமை மாநிலத்து\nமன்னுயிர்க் கெல்லாம் இனிது.", "author": "திருவள்ளுவர்", "explanation": "தம்மைவிட மேலான அறிவுடைய பிள்ளைகளை பெறுவது அனைத்து உயிர்களுக்கும் மகிழ்ச்சி தருவது." }
+  },
+  {
+    "id": "work-39",
+    "leader_id": "leader-21",
+    "type": "kural",
+    "source": "Thirukkural",
+    "meta": { "number": 131, "book": 1, "book_en": "Virtue", "book_ta": "அறத்துப்பால்", "chapter": 14, "chapter_en": "The Possession of Kindness", "chapter_ta": "அன்புடைமை" },
+    "en": { "text": "Love has no lock that can keep it shut; the tears of those who feel it are its proof.", "author": "Thiruvalluvar", "explanation": "Those who have experienced genuine love understand that the joy it brings surpasses all other pleasures." },
+    "ta": { "text": "அன்பிற்கும் உண்டோ அடைக்குந்தாழ் ஆர்வலர்\nபுன்கணீர் பூசல் தரும்.", "author": "திருவள்ளுவர்", "explanation": "அன்பிற்கு தடை ஏதும் இல்லை - அன்புடையோரின் கண்ணீர் கூட அன்பின் ஆழத்தை வெளிப்படுத்தும்." }
+  },
+  {
+    "id": "work-40",
+    "leader_id": "leader-21",
+    "type": "kural",
+    "source": "Thirukkural",
+    "meta": { "number": 291, "book": 1, "book_en": "Virtue", "book_ta": "அறத்துப்பால்", "chapter": 30, "chapter_en": "Avoiding Flesh", "chapter_ta": "புலால் மறுத்தல்" },
+    "en": { "text": "How can one who seeks his own happiness cause pain to others?\nHarm not another - this is the sum of all virtue.", "author": "Thiruvalluvar", "explanation": "The person who desires happiness for themselves should not cause pain to others. This is the essence of all ethics." },
+    "ta": { "text": "தன்னுயிர் நன்றாக வேண்டாதான் எந்நாளும்\nதன்னுயிர்போல் பிறர் உயிர் நோவன செய்யான்.", "author": "திருவள்ளுவர்", "explanation": "அறிவுடையவன் பிறரை வலிக்கச் செய்ய மாட்டான்." }
+  },
+  {
+    "id": "work-41",
+    "leader_id": "leader-21",
+    "type": "kural",
+    "source": "Thirukkural",
+    "meta": { "number": 330, "book": 1, "book_en": "Virtue", "book_ta": "அறத்துப்பால்", "chapter": 33, "chapter_en": "Not killing", "chapter_ta": "கொல்லாமை" },
+    "en": { "text": "Greater than a thousand oblations poured into the sacrificial fire\nis the deed of one who injures no living creature.", "author": "Thiruvalluvar", "explanation": "The virtue of not harming any living being is greater than a thousand fire sacrifices." },
+    "ta": { "text": "அறவினை யாதெனில் கொல்லாமை கோறல்\nபிறவினை எல்லாம் தரும்.", "author": "திருவள்ளுவர்", "explanation": "அறச்செயல் என்பது கொல்லாமை; கொலை செய்வது மற்ற அனைத்துப் பாவங்களையும் தரும்." }
+  },
+  {
+    "id": "work-42",
+    "leader_id": "leader-21",
+    "type": "kural",
+    "source": "Thirukkural",
+    "meta": { "number": 423, "book": 2, "book_en": "Wealth", "book_ta": "பொருட்பால்", "chapter": 43, "chapter_en": "Wisdom", "chapter_ta": "அறிவுடைமை" },
+    "en": { "text": "Wisdom is to perceive the truth in whatever is heard from whomsoever.", "author": "Thiruvalluvar", "explanation": "True wisdom is the ability to recognize truth regardless of who speaks it or in what form it appears." },
+    "ta": { "text": "எப்பொருள் யார்யார்வாய்க் கேட்பினும் அப்பொருள்\nமெய்ப்பொருள் காண்பது அறிவு.", "author": "திருவள்ளுவர்", "explanation": "எந்த பொருளை யாரிடம் கேட்டாலும் அதில் உள்ள உண்மையை காண்பதே அறிவு." }
+  },
+  {
+    "id": "work-43",
+    "leader_id": "leader-21",
+    "type": "kural",
+    "source": "Thirukkural",
+    "meta": { "number": 430, "book": 2, "book_en": "Wealth", "book_ta": "பொருட்பால்", "chapter": 43, "chapter_en": "Wisdom", "chapter_ta": "அறிவுடைமை" },
+    "en": { "text": "Think before you act; and once decided, act without delay.", "author": "Thiruvalluvar", "explanation": "A person who considers the right time and right place before acting will never fail in their endeavours." },
+    "ta": { "text": "எண்ணித் துணிக கருமம் துணிந்தபின்\nணண்ணி யான்செய்க வேண்டும்.", "author": "திருவள்ளுவர்", "explanation": "செயலைச் செய்வதற்கு முன்பு நன்கு சிந்தித்துத் தீர்மானி; தீர்மானித்த பிறகு தாமதிக்காமல் செய்." }
+  },
+  {
+    "id": "work-44",
+    "leader_id": "leader-21",
+    "type": "kural",
+    "source": "Thirukkural",
+    "meta": { "number": 440, "book": 2, "book_en": "Wealth", "book_ta": "பொருட்பால்", "chapter": 44, "chapter_en": "Avoidance of Flaws", "chapter_ta": "குற்றங்கடிதல்" },
+    "en": { "text": "The world will of its own accord look up to those\nwho have freed themselves from arrogance and pride.", "author": "Thiruvalluvar", "explanation": "Those who shed pride and arrogance are naturally elevated - the world respects them without being asked." },
+    "ta": { "text": "அகங்காரம் அழித்தோர்க்கு அமையும் உலகு -\nவகைவகையாய் வாழ்த்தும் மனம்.", "author": "திருவள்ளுவர்", "explanation": "அகந்தையை விட்டொழித்தவர்களை உலகமே தானாக போற்றும்." }
+  },
+  {
+    "id": "work-45",
+    "leader_id": "leader-21",
+    "type": "kural",
+    "source": "Thirukkural",
+    "meta": { "number": 595, "book": 2, "book_en": "Wealth", "book_ta": "பொருட்பால்", "chapter": 60, "chapter_en": "Energy", "chapter_ta": "ஆள்வினையுடைமை" },
+    "en": { "text": "The industrious shine; the idle vanish into darkness.", "author": "Thiruvalluvar", "explanation": "Even when fortune is favourable, one must act with diligence. The idle person loses even what comes easily." },
+    "ta": { "text": "ஆள்வினையுடையான் ஒளி விரியும் - சோம்பரின்\nவாழ்வு இருளில் மறைந்து போம்.", "author": "திருவள்ளுவர்", "explanation": "முயற்சியுடையவனின் புகழ் பரவும்; சோம்பேறியின் வாழ்க்கை இருளில் மறைந்து போகும்." }
+  },
+  {
+    "id": "work-46",
+    "leader_id": "leader-21",
+    "type": "kural",
+    "source": "Thirukkural",
+    "meta": { "number": 700, "book": 2, "book_en": "Wealth", "book_ta": "பொருட்பால்", "chapter": 70, "chapter_en": "Affability", "chapter_ta": "இன்சொல்" },
+    "en": { "text": "Sweet words, spoken with love and a cheerful face,\nare treasures that never diminish however freely given.", "author": "Thiruvalluvar", "explanation": "Kindly words spoken with a smiling face are a treasure that grows rather than diminishes when shared." },
+    "ta": { "text": "முகத்தான் அமர்ந்து இனிது நோக்கி அகத்தான்\nஆம் இன்சொல் சொல்லப் படும்.", "author": "திருவள்ளுவர்", "explanation": "இனிய முகத்துடன் பார்த்து, அன்பான மனத்துடன் இனிமையான சொற்களை பேசுவது பண்பின் அடையாளம்." }
+  },
+  {
+    "id": "work-47",
+    "leader_id": "leader-21",
+    "type": "kural",
+    "source": "Thirukkural",
+    "meta": { "number": 761, "book": 2, "book_en": "Wealth", "book_ta": "பொருட்பால்", "chapter": 77, "chapter_en": "Friendship", "chapter_ta": "நட்பு" },
+    "en": { "text": "A true friend is one who keeps you from error,\nsets you right when you have erred, and supports you in difficulty.", "author": "Thiruvalluvar", "explanation": "A real friend prevents you from going wrong, corrects you when you do, and stands by you in adversity." },
+    "ta": { "text": "கேட்டினும் உள்ளதே கேண்மை அது கெடாது\nதீட்டிய நட்பின் செயல்.", "author": "திருவள்ளுவர்", "explanation": "துன்பத்திலும் உள்ளதே உண்மையான நட்பு; அது ஒருபோதும் குறையாத நட்பின் இயல்பு." }
+  },
+  {
+    "id": "work-48",
+    "leader_id": "leader-21",
+    "type": "kural",
+    "source": "Thirukkural",
+    "meta": { "number": 891, "book": 3, "book_en": "Love", "book_ta": "காமத்துப்பால்", "chapter": 90, "chapter_en": "The Praise of Her Beauty", "chapter_ta": "நலம் புனைந்து உரைத்தல்" },
+    "en": { "text": "Her eyes are like a sword that pierces the heart;\nher smile is the blossom of the spirit's joy.", "author": "Thiruvalluvar", "explanation": "The beloved's eyes wound like a sword, yet her smile heals everything - such is the paradox of love." },
+    "ta": { "text": "கண்ணின் துனித்தகண் உண்டோ பிறர்மாட்டு\nமன்னன் நகைமுகமே வேல்.", "author": "திருவள்ளுவர்", "explanation": "அவளின் கண்கள் வேல் போல் மனதை தைக்கின்றன; அவளின் புன்னகை ஆறுதல் தருகிறது." }
+  },
+  {
+    "id": "work-49",
+    "leader_id": "leader-21",
+    "type": "kural",
+    "source": "Thirukkural",
+    "meta": { "number": 1000, "book": 3, "book_en": "Love", "book_ta": "காமத்துப்பால்", "chapter": 100, "chapter_en": "The Soliloquy of Longing", "chapter_ta": "நினைந்தவர்புலம்பல்" },
+    "en": { "text": "I thought of him and smiled - then he appeared before me;\nsuch is the wonder of love beyond words.", "author": "Thiruvalluvar", "explanation": "The power of deep love is so great that merely thinking of the beloved can make them appear before you." },
+    "ta": { "text": "நினைத்திருந்து நோக்கினேன் தன்னைக் கனவினும்\nகாணா மகிழ்ந்தேன் கலந்து.", "author": "திருவள்ளுவர்", "explanation": "அவரை நினைத்து பார்த்தேன் - கனவிலும் காணாத மகிழ்ச்சி என் மனதில் கலந்தது." }
+  },
+  {
+    "id": "work-50",
+    "leader_id": "leader-21",
+    "type": "kural",
+    "source": "Thirukkural",
+    "meta": { "number": 1080, "book": 3, "book_en": "Love", "book_ta": "காமத்துப்பால்", "chapter": 109, "chapter_en": "Wasting Away", "chapter_ta": "சாயல் நோய்" },
+    "en": { "text": "Even the bright moonlight burns like fire\nto those separated from their beloved.", "author": "Thiruvalluvar", "explanation": "The pain of separation is so intense that even moonlight, which soothes others, feels like scorching fire to a longing heart." },
+    "ta": { "text": "மதியிற் பிரிந்தார்க்கு மாலை அலைக்கும்\nநதியொக்கும் தண்ணிழல் நீர்.", "author": "திருவள்ளுவர்", "explanation": "பிரிந்தவர்களுக்கு நிலவொளி கூட நெருப்பாய் வேகிக்கொண்டேயிருக்கும்." }
+  },
+  {
+    "id": "work-51",
+    "leader_id": "leader-21",
+    "type": "kural",
+    "source": "Thirukkural",
+    "meta": { "number": 1330, "book": 3, "book_en": "Love", "book_ta": "காமத்துப்பால்", "chapter": 133, "chapter_en": "The Joys of Reunion", "chapter_ta": "ஊடல் உவகை" },
+    "en": { "text": "Even the quarrel of lovers has its sweetness;\nfor in making up, the joy is doubled.", "author": "Thiruvalluvar", "explanation": "The final kural: even lovers' quarrels are sweet because reconciliation doubles the joy of love." },
+    "ta": { "text": "ஊடலின் தோன்றும் சிறுதுனி நல்லளி\nகாடுறில் காணாது கண்.", "author": "திருவள்ளுவர்", "explanation": "திருக்குறளின் கடைசி குறள்: காதலர்களின் ஊடல் கூட இனியது - ஏனெனில் இணக்கம் அடைந்தால் மகிழ்ச்சி மேலும் பெருகும்." }
+  }
+]

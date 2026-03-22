@@ -1,0 +1,36 @@
+import type { Theme } from "@/types";
+
+export const THEMES: Record<"light" | "dark", Theme> = {
+  light: {
+    bg: "#f5f3ef", surface: "#ffffff", surfaceHover: "#faf8f5", modal: "#ffffff",
+    border: "rgba(0,0,0,0.07)", text: "#18140f", textSub: "#5c5347", textMuted: "#a8998a",
+    accent: "#b07d2a", accentSoft: "rgba(176,125,42,0.09)", accentBorder: "rgba(176,125,42,0.22)", accentText: "#7a5212",
+    nav: "rgba(245,243,239,0.94)",
+    pill: { bg: "rgba(176,125,42,0.1)", border: "rgba(176,125,42,0.2)", text: "#7a5212" },
+    tag:  { bg: "rgba(0,0,0,0.04)", border: "rgba(0,0,0,0.07)", text: "#786858" },
+    disabled: { bg: "rgba(0,0,0,0.03)", border: "rgba(0,0,0,0.07)", text: "#c0b4a4" },
+    shadow: "0 2px 12px rgba(0,0,0,0.07)", shadowModal: "0 24px 64px rgba(0,0,0,0.16)",
+    toggle: { bg: "#edeae4", border: "rgba(0,0,0,0.1)", text: "#5c5347" },
+    pa: { bg: "#b07d2a", text: "#fff" },
+    pi: { bg: "#fff", border: "rgba(0,0,0,0.09)", text: "#5c5347" },
+    banner: { bg: "rgba(176,125,42,0.07)", border: "rgba(176,125,42,0.18)", text: "#8a5c10" },
+    request: { bg: "rgba(176,125,42,0.06)", border: "rgba(176,125,42,0.18)" },
+    sharePanel: { bg: "#fff", border: "rgba(0,0,0,0.1)" },
+  },
+  dark: {
+    bg: "#100f0d", surface: "#181612", surfaceHover: "#201d18", modal: "#161410",
+    border: "rgba(255,255,255,0.06)", text: "#ede5d4", textSub: "#8a7f6e", textMuted: "#4e463c",
+    accent: "#c9a35e", accentSoft: "rgba(201,163,94,0.08)", accentBorder: "rgba(201,163,94,0.2)", accentText: "#c9a35e",
+    nav: "rgba(16,15,13,0.94)",
+    pill: { bg: "rgba(201,163,94,0.08)", border: "rgba(201,163,94,0.18)", text: "#c9a35e" },
+    tag:  { bg: "rgba(255,255,255,0.04)", border: "rgba(255,255,255,0.07)", text: "#6b6055" },
+    disabled: { bg: "rgba(255,255,255,0.02)", border: "rgba(255,255,255,0.05)", text: "#3e3830" },
+    shadow: "0 2px 12px rgba(0,0,0,0.3)", shadowModal: "0 32px 80px rgba(0,0,0,0.6)",
+    toggle: { bg: "rgba(255,255,255,0.06)", border: "rgba(255,255,255,0.08)", text: "#8a7f6e" },
+    pa: { bg: "#c9a35e", text: "#0f0e0c" },
+    pi: { bg: "transparent", border: "rgba(255,255,255,0.08)", text: "#8a7f6e" },
+    banner: { bg: "rgba(201,163,94,0.07)", border: "rgba(201,163,94,0.18)", text: "#a08040" },
+    request: { bg: "rgba(201,163,94,0.05)", border: "rgba(201,163,94,0.15)" },
+    sharePanel: { bg: "#1e1b16", border: "rgba(201,163,94,0.18)" },
+  },
+};
